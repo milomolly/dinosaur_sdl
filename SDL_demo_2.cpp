@@ -141,6 +141,6 @@ int main(int argc, char* argv[])
 			SDL_Delay( 2000 );
 		}
 	}
-    //cout<<"Hello World";
+    cout<<"Hello World";
     return 0;
 }
